@@ -1,0 +1,17 @@
+{
+  "name": "playwrightdemo",
+  "version": "1.0.0",
+  "main": "MyFirstJS.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.0.7",
+    "allure-playwright": "^3.3.3",
+    "playwright-bdd": "^8.4.1"
+  }
+}

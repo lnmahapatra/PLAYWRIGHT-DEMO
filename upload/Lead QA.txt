@@ -1,0 +1,10 @@
+Senior Test Lead with 12+years’ experience on Selenium, Python, Robot Framework.Cypress with
+Key Technical Skills:
+   	:	Selenium (Python, Java, C# )Robot Framework, BDD,TestNG
+	:	(Python,Java PyTest, Behave and CYPRESS).
+	:	REST API Testing.
+	: 	Python, Core Java, Gherkin, HTML
+	:	Oracle, SQL, My SQL
+        :	Catchpoint, Testrail. GitLab, Jira and Jenkins, Allure Reports
+	:	Knowledge on RPA ,ACCELQ, Leapwork, MS Dynamic 365 CRM.Automation
+        :       Agile/Scrum/SRE
